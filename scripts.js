@@ -49,7 +49,7 @@ input.onkeyup = function () {
   document.getElementById("categories").innerHTML = label1.value;
   document.getElementById("content-title1").innerHTML = judul1.value;
   document.getElementById("elc").innerHTML = btitle1.value;
-  document.getElementById("author-name").innerHTML = "@" + author.value;
+  document.getElementById("author-name").innerHTML = author.value;
 };
 document.getElementById("bg-color").addEventListener("change", function () {
   var c = "#fff #d32f2f #c2185b #7b1fa2 #512da8 #303f9f #1976d2 #0288d1 #0097a7 #00796b #388e3c #689f38 #afb42b #fbc02d #ffa000 #f57c00 #e64a19 #5d4037 #616161 #455a64".split(" ")[bgcl.selectedIndex];
