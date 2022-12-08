@@ -386,7 +386,7 @@ footer.footer a {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  padding: 50px;
+  padding: 65px;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
@@ -405,7 +405,7 @@ textarea {
   font-family: 'Google Sans', 'Segoe UI', sans-serif !important;
 }
 .content-title {
-  font-size: 50px;
+  font-size: 45px;
   font-family: 'Google Sans', 'Segoe UI', sans-serif;
   font-weight: 700;
   padding: 0 150px;
